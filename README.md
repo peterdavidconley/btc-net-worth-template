@@ -8,9 +8,9 @@ I believe that in the future, Bitcoin will be the universal globally accepted fo
 
 ## Design
 
-You can use this mock up: [https://www.canva.com/design/DAEzcWAX3CE/FSVAQBEJckm9dZaJyDv4cw/view?website#1] (Project Design Inspiration) as a starting place for design and components.
+You can use this mock up: [Project Design Inspiration](https://www.canva.com/design/DAEzcWAX3CE/FSVAQBEJckm9dZaJyDv4cw/view?website#1) as a starting place for design and components.
 
-My live project can be visited here [https://front-end-two-umber.vercel.app/] (Vercel Front-End Deploy)
+My live project can be visited here [Vercel Front-End Deploy](https://front-end-two-umber.vercel.app/)
 
 ## Tech/framework used
 
