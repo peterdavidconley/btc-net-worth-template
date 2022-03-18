@@ -30,12 +30,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-## API Reference
-
 ## How to Use
 
-1. User creates account by visiting /create-account page and submitting an username and password
-2. 
+1. User creates account by submitting an username and password
+2. User adds assets to their portfolio, one by one
+3. User assigns USD value to each asset
+4. User can view entire portfolio denominated in BTC on portfolio page
 
 ## Contribute
 
