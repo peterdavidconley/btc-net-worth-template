@@ -6,15 +6,29 @@ Create an account, upload your assets, and have a USD denomination of your finan
 
 I believe that in the future, Bitcoin will be the universal globally accepted form of base money. Every good and service will be denominated in it, instead of local fiat currency. This project helps you think in terms of accounting your wealth in BTC, instead of USD.
 
-## Screenshots
+## Design
+
+You can use this mock up: [https://www.canva.com/design/DAEzcWAX3CE/FSVAQBEJckm9dZaJyDv4cw/view?website#1](Project Design Inspiration) as a starting place for design and components.
+
+My live project can be visited here [https://front-end-two-umber.vercel.app/](Vercel Front-End Deploy)
 
 ## Tech/framework used
+
+React
 
 ## Features
 
 This project is ahead of it's time, interms of common financial thinking. It's meant to change the way we think about money, by switching the base unit of account.
 
 ## Project Installation
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
 ## API Reference
 
@@ -25,11 +39,11 @@ This project is ahead of it's time, interms of common financial thinking. It's m
 
 ## Contribute
 
-Contribute to this project by....
+Contribute to this project by forking this repo and creating your own from scratch. This repo is meant to be a template so you can fork it and build a portfolio project by yourself.
 
 ## License
 
-MIT ©peterdavidconley
+MIT 
 
 ## Getting Started with Create React App
 
