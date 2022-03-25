@@ -18,7 +18,7 @@ React
 
 ## Features
 
-This project is ahead of it's time, interms of common financial thinking. It's meant to change the way we think about money, by switching the base unit of account.
+This project is ahead of it's time, in terms of common financial thinking. It's meant to change the way we think about money, by switching the base unit of account.
 
 ## Project Installation
 
