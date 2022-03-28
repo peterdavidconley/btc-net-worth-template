@@ -4,7 +4,7 @@ Create an account, upload your assets, and have a USD denomination of your finan
 
 ## Motivation
 
-I believe that in the future, Bitcoin will be the universal globally accepted form of base money. Every good and service will be denominated in it, instead of local fiat currency. This project helps you think in terms of accounting your wealth in BTC, instead of USD.
+I believe that in the future, Bitcoin will be the universal globally accepted form of base money. Every good and service will be denominated in it, instead of local fiat currency. This project helps you think in terms of accounting your wealth in BTC, instead of USD. This project will also give you experience with interacting with the Bitcoin network.
 
 ## Design
 
