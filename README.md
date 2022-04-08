@@ -12,6 +12,12 @@ You can use this mock up: [Project Design Inspiration](https://www.canva.com/des
 
 My live project can be visited here [Vercel Front-End Deploy](https://front-end-two-umber.vercel.app/)
 
+## Assets
+
+Below are links to design assets needed for the project.
+
+[Bitcoin Logo](https://peterdavidconley.com/wp-content/uploads/2022/03/bitcoin_logo.png)
+
 ## API
 
 In order to convert USD to BTC you'll need updated pricing data. You can access this [Coindesk API](https://api.coindesk.com/v1/bpi/currentprice.json) for it. 
